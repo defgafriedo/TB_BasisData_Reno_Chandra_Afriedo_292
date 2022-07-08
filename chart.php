@@ -96,7 +96,7 @@ new Chart("piechart2", {
     legend: {display: false},
     title: {
       display: true,
-      text: ""
+      text: "Pengerjaan"
     }
   }
 });
